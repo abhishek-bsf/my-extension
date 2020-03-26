@@ -1,3 +1,13 @@
 .simp-simple-header-heading {
 	margin-bottom: 20px;
 }
+
+.simp-simple-header-label {
+	color: red;
+	border: black 1px solid;
+	padding: 5px;
+}
+
+.simp-simple-header-content {
+	border: blue 3px dotted;
+}
