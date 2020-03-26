@@ -18,6 +18,9 @@ class SimpleHeader extends Component {
         <p className="simp-simple-header-content">
           {this.props.content()}
         </p>
+        <p className="simp-simple-header-icon">
+          {this.props.icon}
+        </p>
       </Fragment>
     );
   }

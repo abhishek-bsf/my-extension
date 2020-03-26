@@ -4,10 +4,16 @@
 
 .simp-simple-header-label {
 	color: red;
-	border: black 1px solid;
+	/* border: black 1px solid; */
 	padding: 5px;
+	font-style: italic;
 }
 
 .simp-simple-header-content {
-	border: blue 3px dotted;
+	/* border: blue 3px dotted; */
+}
+
+.simp-simple-header-icon {
+	border: magenta 2px dashed;
+	padding: 3px;
 }
