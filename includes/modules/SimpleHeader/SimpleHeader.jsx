@@ -15,6 +15,7 @@ class SimpleHeader extends Component {
       <Fragment>
         <h1 className="simp-simple-header-heading">{this.props.heading}</h1>
         <label className="simp-simple-header-label">{this.props.heading}</label>
+        <label>abhi</label>
         <p className="simp-simple-header-content">
           {this.props.content()}
         </p>
